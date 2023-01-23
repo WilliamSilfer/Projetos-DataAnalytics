@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @WilliamSilfer
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Git Hub
-- 📫 How to reach me wallian_@hotmail.com
+<h1>Pequenos projetos de análises de dados</h1>
 
-<!---
-WilliamSilfer/WilliamSilfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Projetos concluídos: 3
+
+<h2> Tecnologias necessárias para execução dos arquivos: <h2>
+  <li> Python 3.1 ou superior</li>
+    <li> Power BI 2022</li>
+  <li> Bibliotecas Python: Pandas, Numpy, Seaborn, Matplotlib</li>
