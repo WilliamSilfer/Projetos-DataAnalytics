@@ -70,17 +70,17 @@ Foram criadas e testadas as seguintes hipóteses:
 ---
 
 ## 📁 Estrutura do Projeto  
-📦 dashboard-vendas
-├── 📂 sql_scripts
-│ ├── kpi_views.sql
-│ ├── analises_exploratorias.sql
-│ └── testes_hipoteses.sql
-├── 📂 python
-│ ├── limpeza_e_integracao.ipynb
-│ └── conexao_powerbi.ipynb
-├── 📂 powerbi
-│ └── dashboard.pbix
-└── README.md
+📦 dashboard-vendas<br>
+├── 📂 sql_scripts <br>
+│ ├── kpi_views.sql <br>
+│ ├── analises_exploratorias.sql <br>
+│ └── testes_hipoteses.sql <br>
+├── 📂 python <br>
+│ ├── limpeza_e_integracao.ipynb <br>
+│ └── conexao_powerbi.ipynb <br>
+├── 📂 powerbi <br>
+│ └── dashboard.pbix <br>
+└── README.md <br>
 
 Link:
 https://bit.ly/dashanalisedevendas
