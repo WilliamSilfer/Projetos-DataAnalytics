@@ -70,7 +70,7 @@ Foram criadas e testadas as seguintes hipóteses:
 ---
 
 ## 📁 Estrutura do Projeto  
-📦 dashboard-vendas
+📦 dashboard-vendas<br>
 ├── 📂 sql_scripts <br>
 │ ├── kpi_views.sql <br>
 │ ├── analises_exploratorias.sql <br>
