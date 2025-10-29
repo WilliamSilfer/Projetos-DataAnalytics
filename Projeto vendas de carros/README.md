@@ -5,6 +5,11 @@ O principal objetivo deste projeto foi **praticar consultas SQL** aplicadas a um
 
 Além da exploração em SQL, o projeto inclui a **formulação de hipóteses de negócio** e a **construção de um dashboard no Power BI**, consolidando uma jornada completa: da extração de dados até a comunicação dos resultados.
 
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/15f6dbb3-7024-423f-82db-e1eb726bda09" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/27ed23ce-170d-4f89-aca6-2b5ea3f095a2" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d3ad421c-939d-4624-99d4-60b6333e9373" />
+
 --
 
 ## 🧩 Etapas do Projeto  
