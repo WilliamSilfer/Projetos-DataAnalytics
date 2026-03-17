@@ -7,18 +7,24 @@ Cada projeto contém suas próprias pastas, scripts, dashboards e documentação
 
 📂 Estrutura de Projetos
 Projeto	Descrição	Tecnologias	Status
-Dashboard de Vendas – Loja Online
+📌 Dashboard de Vendas – Loja Online
 	Projeto completo de análise exploratória e construção de dashboard de vendas. Inclui hipóteses de negócio, queries SQL, automação com Python e dashboard final no Power BI.	SQL · Python · Power BI	✅ Concluído
-(Em breve)	(Novo projeto em desenvolvimento...)	—	🧩 Em andamento
-🧰 Tecnologias Utilizadas
+📌 Previsão de Estresse a partir de Comportamento em Redes Sociais
+	Este projeto tem como objetivo prever o nível de estresse de usuários com base em dados comportamentais, estilo de vida e uso do Instagram. A proposta busca entender não apenas a capacidade preditiva do modelo, mas também as relações entre variáveis 		comportamentais e indicadores emocionais.
 
-Os projetos podem envolver uma ou mais das seguintes ferramentas:
+🛠️ Tecnologias Utilizadas
 
-SQL — consultas, criação de views e análise exploratória de bases relacionais
+Python
 
-Python (Pandas, Matplotlib, Seaborn) — automação, limpeza e análise de dados
+Pandas
 
-Power BI — criação de dashboards interativos e acompanhamento de KPI’s
+NumPy
+
+Scikit-learn
+
+Matplotlib
+
+Statsmodels
 
 Git & GitHub — versionamento e controle de histórico de desenvolvimento
 
@@ -28,4 +34,3 @@ Consolidar conhecimento técnico por meio de projetos práticos e completos.
 
 Demonstrar pensamento analítico e domínio de ferramentas.
 
-Criar uma base pública de portfólio para acompanhamento da minha evolução na área de dados.
